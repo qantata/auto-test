@@ -1,13 +1,9 @@
 {
   "mode": "pre",
-  "tag": "beta",
+  "tag": "rc",
   "initialVersions": {
     "server": "0.2.1",
     "web": "0.3.0"
   },
-  "changesets": [
-    "angry-actors-fold",
-    "eleven-pens-fix",
-    "tame-numbers-jump"
-  ]
+  "changesets": ["angry-actors-fold", "eleven-pens-fix", "tame-numbers-jump"]
 }
