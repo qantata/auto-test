@@ -1,0 +1,9 @@
+{
+  "mode": "pre",
+  "tag": "next",
+  "initialVersions": {
+    "server": "0.2.0",
+    "web": "0.2.0"
+  },
+  "changesets": []
+}
