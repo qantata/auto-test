@@ -1,5 +1,11 @@
 # server
 
+## 1.0.0-next.0
+
+### Major Changes
+
+- 7b7118a: THE FIRST MAJOR RELEASE!!
+
 ## 0.2.1
 
 ### Patch Changes
