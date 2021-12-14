@@ -1,5 +1,11 @@
 # server
 
+## 1.0.0-rc.2
+
+### Major Changes
+
+- 9747b26: 1.0.0-rc.0
+
 ## 1.0.0-beta.1
 
 ### Major Changes
