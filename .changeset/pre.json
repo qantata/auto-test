@@ -5,5 +5,9 @@
     "server": "0.2.1",
     "web": "0.3.0"
   },
-  "changesets": ["angry-actors-fold"]
+  "changesets": [
+    "angry-actors-fold",
+    "eleven-pens-fix",
+    "tame-numbers-jump"
+  ]
 }
