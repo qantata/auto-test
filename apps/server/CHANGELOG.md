@@ -1,5 +1,12 @@
 # server
 
+## 1.0.0-beta.1
+
+### Major Changes
+
+- 28b4247: Another
+- d732016: Beta
+
 ## 1.0.0-next.0
 
 ### Major Changes
