@@ -1,5 +1,13 @@
 # server
 
+## 0.2.1
+
+### Patch Changes
+
+- Updated dependencies [2afa934]
+- Updated dependencies [745084b]
+  - web@0.3.0
+
 ## 0.2.1-next.0
 
 ### Patch Changes

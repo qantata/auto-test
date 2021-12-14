@@ -1,5 +1,15 @@
 # web
 
+## 0.3.0
+
+### Minor Changes
+
+- 745084b: Trying out the pre-release
+
+### Patch Changes
+
+- 2afa934: Another patch in pre mode
+
 ## 0.3.0-next.1
 
 ### Patch Changes
