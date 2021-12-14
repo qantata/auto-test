@@ -1,5 +1,11 @@
 # web
 
+## 0.3.0-next.0
+
+### Minor Changes
+
+- 745084b: Trying out the pre-release
+
 ## 0.2.1
 
 ### Patch Changes
