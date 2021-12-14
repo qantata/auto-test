@@ -6,6 +6,7 @@
     "web": "0.2.0"
   },
   "changesets": [
+    "cold-rules-melt",
     "real-brooms-tease"
   ]
 }
