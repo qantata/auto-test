@@ -1,5 +1,11 @@
 # web
 
+## 0.3.0-next.1
+
+### Patch Changes
+
+- 2afa934: Another patch in pre mode
+
 ## 0.3.0-next.0
 
 ### Minor Changes
